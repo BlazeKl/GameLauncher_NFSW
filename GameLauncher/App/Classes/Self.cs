@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace GameLauncherReborn {
     class Self {
-        public static string mainserver = "http://l.mtntr.pl";
+        public static string mainserver = "http://127.0.0.1";
 
         public static string[] serverlisturl = new string[] {
             mainserver + "/serverlist.json",
